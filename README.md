@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="/mnt/data/Xss-Master.png" alt="xss-master banner" width="500">
+  <img src="/Xss-Master.png" alt="xss-master banner">
 </p>
+
 
 
 # Xss-Master
