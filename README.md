@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="/mnt/data/Xss-Master.png" alt="xss-master banner">
+  <img src="/mnt/data/Xss-Master.png" alt="xss-master banner" width="500">
 </p>
+
 
 # Xss-Master
 ### Automated Reflection-Based XSS Analyzer  
