@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/mnt/data/Xss-Master.png" alt="xss-master banner">
+</p>
+
 # Xss-Master
 ### Automated Reflection-Based XSS Analyzer  
 **Built for Pentesters. By TheCyberAryan.**
