@@ -1,5 +1,4 @@
 # Xss-Master
-# xss-master 🔥  
 ### Automated Reflection-Based XSS Analyzer  
 **Built for Pentesters. By TheCyberAryan.**
 
